@@ -1,9 +1,21 @@
-# LIFE / IN NUMBERS
+# Life / In Numbers
 
-Varlığınızın zaman, hareket ve sayılarla anlatılan etkileşimli portresi. Türkçe varsayılandır; İngilizce seçeneği uygulama içinde sunulur.
+Doğum tarihini yaşanan günlere, haftalara, tahmini kalp atışlarına ve Güneş çevresindeki yolculuğa çeviren bir web deneyimi.
 
-## Canlı site
+## Canlı adres
 
-[https://berkantkull.github.io/lifeinnumbers/](https://berkantkull.github.io/lifeinnumbers/)
+[berkantkull.github.io/lifeinnumbers](https://berkantkull.github.io/lifeinnumbers/)
 
-Bu depo derlenmiş GitHub Pages çıktısını içerir. Tüm doğum tarihi hesaplamaları tarayıcıda yerel olarak yapılır.
+## Neler var?
+
+- Türkçe ve İngilizce kullanım
+- Haftalarla yaşam görünümü
+- Ayarlanabilir nabız hesabı
+- Üç boyutlu Güneş yörüngesi
+- 1080 × 1920 Story kartı ve doğrudan paylaşım
+
+Girilen doğum bilgileri yalnızca tarayıcıda işlenir; kaydedilmez ve bir sunucuya gönderilmez.
+
+Bu depo, GitHub Pages üzerinden yayınlanan statik dosyaları içerir.
+
+© 2026 Berkant Kul / Stark Bilişim
