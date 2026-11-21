@@ -1,3 +1,3 @@
-:HL["/lifeinnumbers/_next/static/css/40bd1415d7f4da45.css","style"]
+:HL["/lifeinnumbers/_next/static/css/8899bb44e180e1d6.css","style"]
 1:[["children",{"s":"__PAGE__","h":160}]]
-0:{"b":"1e1MQWBTrOqMhTL7K21GE","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
+0:{"b":"qZrFZrWp4WxJJCrIP-ylw","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
